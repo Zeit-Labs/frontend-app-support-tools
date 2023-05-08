@@ -60,7 +60,7 @@
     "@edx/browserslist-config": "^1.1.0",
     "@edx/frontend-build": "^12.4.15",
     "@edx/reactifex": "^1.0.3",
-    "@testing-library/react": "10.3.0",
+    "@testing-library/react": "10.4.9",
     "@types/react-table": "^7.7.2",
     "axios-mock-adapter": "^1.19.0",
     "enzyme": "3.11.0",
